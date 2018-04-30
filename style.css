@@ -1,0 +1,59 @@
+#container {
+    margin: 0 20%;
+    border: 5px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 30rem;
+}
+
+.sidebar {
+    background-color: black;
+    width: 30%;
+}
+
+.article {
+    background-color: white;
+    width: 70%;
+}
+
+.header {
+    background-color: red;
+    height: 8rem;
+}
+
+.footer {
+    background-color: blue;
+    height: 8rem;
+}
+
+.heading {
+    font-size: 3rem;
+    margin-left: 3rem;
+    color: white;
+    max-width: 3rem;
+}
+
+#article {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid grey;
+    font-size: 3rem;
+    padding-right: 18rem;
+    margin-left: 3rem;
+}
+
+br {
+    margin-top: 1rem;
+}
+
+.text {
+    width: 80%;
+    margin-left: 3rem;
+}
+
+.inside {
+    margin-top: 3rem;
+}
